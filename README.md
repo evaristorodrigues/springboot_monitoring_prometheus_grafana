@@ -2,7 +2,7 @@
 Spring boot applications with prometheus and grafana for monitoring  
 
 Precisa gerar uma imagem da aplicação com o comando do SpringBoot 
-# spring-boot:build-image
+ spring-boot:build-image
 
 Atualizar o docker-compose apontando para a imagem nova gerada
 
